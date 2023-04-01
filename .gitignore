@@ -1,0 +1,10 @@
+# IntelliJ project settings
+/.idea
+*.iml
+
+# Maven output
+/target/
+/dependency-reduced-pom.xml
+
+# Application blocklists
+blocklists.xml
